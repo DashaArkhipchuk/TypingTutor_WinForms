@@ -1,0 +1,11 @@
+D:\WinForms\WinFormsExam\WinFormsExam\bin\Debug\WinFormsExam.exe
+D:\WinForms\WinFormsExam\WinFormsExam\bin\Debug\WinFormsExam.pdb
+D:\WinForms\WinFormsExam\WinFormsExam\obj\Debug\WinFormsExam.csproj.AssemblyReference.cache
+D:\WinForms\WinFormsExam\WinFormsExam\obj\Debug\WinFormsExam.Properties.Resources.resources
+D:\WinForms\WinFormsExam\WinFormsExam\obj\Debug\WinFormsExam.csproj.GenerateResource.cache
+D:\WinForms\WinFormsExam\WinFormsExam\obj\Debug\WinFormsExam.csproj.CoreCompileInputs.cache
+D:\WinForms\WinFormsExam\WinFormsExam\obj\Debug\WinFormsExam.exe
+D:\WinForms\WinFormsExam\WinFormsExam\obj\Debug\WinFormsExam.pdb
+D:\WinForms\WinFormsExam\WinFormsExam\obj\Debug\WinFormsExam.Form1.resources
+D:\WinForms\WinFormsExam\WinFormsExam\obj\Debug\WinFormsExam.FormResults.resources
+D:\WinForms\WinFormsExam\WinFormsExam\obj\Debug\WinFormsExam.LoadingForm.resources
