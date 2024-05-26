@@ -39,6 +39,11 @@ namespace WinFormsExam
             timetb.Text = "" + timeSec;
             dp.Value = dt;
 
+            speedtb.ReadOnly = true;
+            failstb.ReadOnly = true;
+            timetb.ReadOnly = true;
+            dp.Enabled = false;
+
             speedtb.KeyPress += textBox_KeyPress;
             failstb.KeyPress += textBox_KeyPress;
             timetb.KeyPress += textBox_KeyPress;
@@ -167,6 +172,7 @@ namespace WinFormsExam
             }
             return l;
         }
+
     }
 
     [Serializable]
